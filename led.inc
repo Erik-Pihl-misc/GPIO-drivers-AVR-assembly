@@ -1,7 +1,7 @@
 ;********************************************************************************
 ; LED.inc: Contains drivers for LEDs via objects, implemented as shown below:
 ;
-;          struct LED
+;          struct led
 ;          {
 ;             volatile uint8_t* port_reg;
 ;             volatile uint8_t* pin_reg;
